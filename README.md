@@ -59,4 +59,4 @@ Creative Commons Attribution 4.0 International License.
 
 # Characters, Contributors
 
-U+002A, Niklas Ekholm
+U+002A, Helsinki Type Studio
