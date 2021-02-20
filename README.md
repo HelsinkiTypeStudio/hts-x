@@ -1,6 +1,7 @@
 # Helsinki Type Studio Exploring Unicode
 
 HTS-X is an exploration of the Unicode standard in OTF format.
+
 All glyphs are 1000 units wide and 1000 high.
 
 Anyone can **contribute** a new glyph (fork and pull request)
