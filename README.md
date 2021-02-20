@@ -3,11 +3,11 @@
 HTS-X is an exploration of the Unicode standard in OTF format.
 All glyphs are 1000 units wide and 1000 high.
 
-Anyone can contribute a new glyph (fork and pull request)
+Anyone can **contribute** a new glyph (fork and pull request)
 
 or
 
-Become a collaborator to manage the files (send us an email to ask)
+Get in touch in the **Discussions** section if you cant to become a **collaborator**.
 
 # How to...
 
@@ -30,12 +30,6 @@ The first ever character was the asterisk, with the unicode number `U+002A` so t
 5. Make a **Pull request**
 
 X. Done! Helsinki Type Studio will merge your pull request to the main repository if it is not overwriting any existing characters.
-
-## become a collaborator
-
-mail@helsinkitypestudio.com
-
-Ask us via email to add you as collaborator.
 
 ## add unicode character to a font with Glyphs App
 
