@@ -21,11 +21,7 @@ Get in touch in the **Discussions** section if you cant to become a **collaborat
 
 3. Add any random unicode to the OTF
 
-4. **Upload file** to your forked repository on Github with the **commit message** of your unicode number. **Commit directly to the main branch.**
-
-example
-
-The first ever character was the asterisk, with the unicode number `U+002A` so the message is simply "U+002A"
+4. **Upload file** to your forked repository on Github with the **commit message** of your unicode number. For example the first ever character was the asterisk, with the unicode number `U+002A` so the message is simply "U+002A" **Commit directly to the main branch.**
 
 5. Make a **Pull request**
 
