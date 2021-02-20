@@ -39,6 +39,10 @@ Ask us via email to add you as collaborator.
 
 ## add unicode character to a font with Glyphs App
 
+https://glyphsapp.com/learn/unicode
+
+short version:
+
 1. open the OTF in Glyphs App
 
 2. press command+shift+G , or select **Add Glyphs...** from the menu
