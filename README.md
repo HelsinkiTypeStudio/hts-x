@@ -25,7 +25,9 @@ Get in touch in the **Discussions** section if you want to become a **collaborat
 
 5. Make a **Pull request**
 
-X. Done! Helsinki Type Studio will merge your pull request to the main repository if it is not overwriting any existing characters.
+Done!
+
+Helsinki Type Studio will merge your pull request to the main repository if it is not overwriting any existing characters.
 
 ## add unicode character to a font with Glyphs App
 
