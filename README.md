@@ -13,7 +13,7 @@ Get in touch in the **Discussions** section if you cant to become a **collaborat
 
 ## fork and pull request in browser
 
-(0. assuming you have a Github account)
+(assuming you have a Github account)
 
 1. **Fork** the repository
 
