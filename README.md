@@ -19,7 +19,7 @@ Get in touch in the **Discussions** section if you want to become a **collaborat
 
 2. **Code** -> **Download as zip** -> open on your computer
 
-3. Add a Unicode character to the OTF (for select a random one with [this generator](https://onlineunicodetools.com/generate-random-unicode))
+3. Add a Unicode character to the OTF (for example select a random one with [this generator](https://onlineunicodetools.com/generate-random-unicode) and add the glyph using Glyphs App)
 
 4. **Upload file** to your forked repository on Github with the **commit message** of your unicode number. For example the first ever character was the asterisk, with the unicode number `U+002A` so the message is simply "U+002A" **Commit directly to the main branch.**
 
