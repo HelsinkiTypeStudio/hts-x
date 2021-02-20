@@ -7,7 +7,7 @@ Anyone can **contribute** a new glyph (fork and pull request)
 
 or
 
-Get in touch in the **Discussions** section if you cant to become a **collaborator**.
+Get in touch in the **Discussions** section if you want to become a **collaborator**.
 
 # How to...
 
